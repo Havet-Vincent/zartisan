@@ -2,8 +2,6 @@
 
 ## site for putting individuals in touch with local professionals.
 
-Address : http://ec2-52-90-234-146.compute-1.amazonaws.com/
-
 **The site is in full mobile first. The registration of professionals is automated from 3 APIs.**
 
 ### Technology used on the back side: 
