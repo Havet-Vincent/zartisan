@@ -30,7 +30,7 @@
 		"ignore-styles": "*",
 		"loglevel": "^1.6.4",
 		"mini-css-extract-plugin": "*",
-		"mocha": "^6.2.2",
+		"mocha": "^10.2.0",
 		"mochapack": "^1.1.5",
 		"node-sass": "*",
 		"null-loader": "^3.0.0",
